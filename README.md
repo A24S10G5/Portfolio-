@@ -50,9 +50,9 @@
 <div align="center">
 <strong>It's Broken... ➜ It Works! ➜ Wait, Why?!</strong>
 <br><br>
-<img src="https://githubusercontent.com" width="45" alt="Broken"/>
+<img src="https://githubusercontent.com" width="55" alt="Broken"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="45" alt="Works"/>
+<img src="https://githubusercontent.com" width="55" alt="Works"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="45" alt="Confused"/>
+<img src="https://githubusercontent.com" width="55" alt="Confused"/>
 </div>
