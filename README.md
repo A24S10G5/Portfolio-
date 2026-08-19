@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&repeat=false&lines=Hi+Coders+%F0%9F%91%8B;I'm+Adham+Sameh" alt="Welcome Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adham%20Sameh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=UI%2FUX%20%26%20Web%20Designer&descAlignY=62&descSize=18&descColor=ffffff" alt="Header Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&repeat=false&lines=UI%2FUX+%26+Web+Designer;Crafting+Clean%2C+Modern+Digital+Experiences;Turning+Ideas+Into+Interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=F72585&center=true&vCenter=true&width=500&repeat=false&lines=Hi+Coders+%F0%9F%91%8B;I'm+Adham+Sameh" alt="Welcome Typing SVG" />
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=A24S10G5&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/A24S10G5)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FA24S10G5%2FPortfolio-&count_bg=%232E9EF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/A24S10G5/Portfolio-)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7209B7&center=true&vCenter=true&width=600&repeat=false&lines=Crafting+Clean%2C+Modern+Digital+Experiences;Turning+Ideas+Into+Interfaces" alt="Typing SVG" />
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhamsameh241005@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER_HERE)
-[![My Projects](https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A24S10G5?tab=repositories)
+<a href="https://github.com/A24S10G5"><img src="https://komarev.com/ghpvc/?username=A24S10G5&color=7209B7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+<a href="https://github.com/A24S10G5/Portfolio-"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FA24S10G5%2FPortfolio-&count_bg=%237209B7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" /></a>
+
+<br><br>
+
+<a href="mailto:adhamsameh241005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/YOUR_NUMBER_HERE"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://github.com/A24S10G5?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="My Projects" /></a>
 
 </div>
 
@@ -54,7 +56,7 @@
 
 <div align="center">
 
-**It's Broken... ➜ It Works! ➜ Wait, Why?! 🔁**
+<strong>It's Broken... ➜ It Works! ➜ Wait, Why?! 🔁</strong>
 
 </div>
 
@@ -62,6 +64,8 @@
 
 <div align="center">
 
-⭐ *If you like my work, feel free to check out my repositories and drop a star!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Banner" width="100%" />
+
+⭐ <em>If you like my work, feel free to check out my repositories and drop a star!</em>
 
 </div>
